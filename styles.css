@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+#green{
+	background-color:green;
+	height: 100px;  
+width: 100px; 
+/* border: solid 1px;   */
+border-radius: 50%;  
+display: inline-block;
+	margin-left:11px;
+}
+#yellow{
+	background-color:yellow;
+	height: 100px;  
+width: 100px; 
+/* border: solid 1px;   */
+border-radius: 50%;  
+display: inline-block;
+	margin:px;
+}
+#red{
+	background-color:red;
+	height: 100px;  
+width: 100px; 
+/* border: solid 1px;   */
+border-radius: 50%;  
+display: inline-block;
+	margin-right:11px;
+}
+.box1{
+	border:3px solid black;
+	height: 120px;  
+width: 380px; 
+	border-radius:25px;
+	text-align:center;
+	display:inline-block;
+	padding-top:18px;
+	background-color:grey;
+}
